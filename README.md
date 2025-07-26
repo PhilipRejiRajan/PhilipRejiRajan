@@ -18,10 +18,10 @@ I'm Philip, an aspiring developer and a CS Undergrad. I'm interested in the Clou
 
 **Frameworks**
 
-[![Node.js, .NET](https://skillicons.dev/icons?i=nodejs,dotnet)](https://skillicons.dev)
+[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
 
 **Tools**
 
-[![Git, GitHub, VS Code, Visual Studio, Notion](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,notion)](https://skillicons.dev)
+[![Git, GitHub, VS Code, Visual Studio, Node.js, Notion](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,nodejs,notion)](https://skillicons.dev)
 
 </div>
