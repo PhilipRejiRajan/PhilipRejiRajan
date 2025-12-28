@@ -14,14 +14,10 @@ I'm Philip, an aspiring developer and a CS Undergrad. I'm interested in the Clou
 
 **Languages**
 
-[![JavaScript, Python, HTML, CSS](https://skillicons.dev/icons?i=js,py,html,css)](https://skillicons.dev)
-
-**Frameworks**
-
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev)
+[![JavaScript, HTML, CSS, Python](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
 
 **Tools**
 
-[![Git, GitHub, VS Code, Visual Studio, Node.js, Notion](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,nodejs,notion)](https://skillicons.dev)
+[![Git, GitHub, VS Code, Node.js, Notion](https://skillicons.dev/icons?i=git,github,vscode,nodejs,notion)](https://skillicons.dev)
 
 </div>
