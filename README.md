@@ -1,4 +1,4 @@
-<div align="center">Hello There! 😺<>
+<h1 align="center">Hello There! 😺<h1>
 
 I'm an aspiring developer interested in cloud technologies. Currently, I'm learning Javascript and web-dev. I like to learn programming by building projects that interest me.
 
