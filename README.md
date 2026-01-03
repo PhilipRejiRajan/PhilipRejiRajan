@@ -1,6 +1,6 @@
 <h1 align="center">Hello There! 😺 </h1>
 
-I'm an aspiring developer interested in cloud technologies. Currently, I'm learning Javascript and web-dev. I like to learn programming by building projects that interest me.
+<p text-align="center">I'm an aspiring developer interested in cloud technologies. Currently, I'm learning Javascript and web-dev. I like to learn programming by building projects that interest me.</p>
 
 <div align="center">
   
@@ -14,10 +14,10 @@ I'm an aspiring developer interested in cloud technologies. Currently, I'm learn
 
 **Languages**
 
-[![JavaScript, HTML, CSS, Python](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
+[![JavaScript, HTML, CSS](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 **Tools**
 
-[![Git, GitHub, VS Code, Notion](https://skillicons.dev/icons?i=git,github,vscode,notion)](https://skillicons.dev)
+[![Git, GitHub, VS Code](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 </div>
