@@ -1,6 +1,6 @@
-# Hello there! 😉
+<div align="center">Hello There! 😺<>
 
-I'm Philip, an aspiring developer and a CS Undergrad. I'm interested in the Cloud and the tech involved in it. Currently, I'm learning Javascript and Full-Stack development. I like to create random projects when I'm free, to learn more about the tech I'm interested in.
+I'm an aspiring developer interested in cloud technologies. Currently, I'm learning Javascript and web-dev. I like to learn programming by building projects that interest me.
 
 <div align="center">
   
@@ -18,6 +18,6 @@ I'm Philip, an aspiring developer and a CS Undergrad. I'm interested in the Clou
 
 **Tools**
 
-[![Git, GitHub, VS Code, Node.js, Notion](https://skillicons.dev/icons?i=git,github,vscode,nodejs,notion)](https://skillicons.dev)
+[![Git, GitHub, VS Code, Notion](https://skillicons.dev/icons?i=git,github,vscode,notion)](https://skillicons.dev)
 
 </div>
