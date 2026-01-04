@@ -7,21 +7,21 @@
 ## 🌐 Let's Connect:
 
 <p>  
-<a target="_blank" href="https://www.linkedin.com/in/philiprejirajan"><img alt="LinkedIn" src="https://img.shields.io/badge/linked_in-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/philiprejirajan"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </p>
 
 ## 💻 Tech Stack:
 
 **Languages**
 
-[![HTML, CSS, JavaScript](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=html,css,js"><br>
 
 **Tools**
 
-[![Git, Vim, GitHub, VS Code, Obsidian](https://skillicons.dev/icons?i=git,vim,github,vscode,obsidian)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,vim,github,vscode,obsidian"><br>
 
 **Linux**
 
-[![Ubuntu](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=ubuntu"><br>
 
 </div>
